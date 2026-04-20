@@ -1,8 +1,10 @@
-public class motor {
+package classKendaraan;
+
+public class Motor {
     private String warna;
     private String merk;
 
-    public motor(String warna, String merk) {
+    public Motor(String warna, String merk) {
         this.warna = warna;
         this.merk = merk;
     }
